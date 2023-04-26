@@ -25,15 +25,15 @@ body {
   text-align: center;
   padding-bottom: 25px;
   background-color: black;
-  font-family: 'Cinzel', serif;
+  font-family: 'Cinzel', Arial, Helvetica, sans-serif;
   padding-top: 15px;
 }
 .subtext {
-  font-family: 'Cardo', serif;
+  font-family: 'Cardo', Arial, Helvetica, sans-serif;
   font-size: 20px;
 }
 .subtitle {
-  font-family: 'Cardo', serif;
+  font-family: 'Cardo', Arial, Helvetica, sans-serif;
   font-size: 32px;
   text-align: center;
   color: white;
@@ -64,7 +64,7 @@ body {
   color: white;
   padding: 5px;
   padding-top: 20px;
-  font-family: 'Cardo', serif;
+  font-family: 'Cardo', Arial, Helvetica, sans-serif;
   font-size: 20px;
 }
 .link:hover {
@@ -78,7 +78,7 @@ body {
   color: white;
   padding: 5px;
   text-align: center;
-  font-family: 'Cardo', serif;
+  font-family: 'Cardo', Arial, Helvetica, sans-serif;
   font-size: 20px;
 }
 .link2:hover {
@@ -123,7 +123,7 @@ body {
 .button {
   background-color: black;
   color: white;
-  font-family: 'Cardo', serif;
+  font-family: 'Cardo', Arial, Helvetica, sans-serif;
 }
 .button:hover {
   background-color: white;
@@ -165,7 +165,7 @@ input {
     color: rgb(216, 205, 57);
     padding-bottom: 25px;
     background-color: black;
-    font-family: 'Cinzel', serif;
+    font-family: 'Cinzel', Arial, Helvetica, sans-serif;
     padding-top: 15px;
     float: left;
   }

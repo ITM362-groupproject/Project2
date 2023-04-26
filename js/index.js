@@ -10,3 +10,6 @@ function ValidateEmail(email) {
       alert("You have entered an invalid email address!")
       return (false)
   }
+  function onAlert() {
+    window.alert("Thank you for applying!");
+  }

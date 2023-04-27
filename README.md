@@ -2,5 +2,5 @@
 
 ### Nicholas Simpkins, Christian Estrada, Tanay Dalal
 
-## FIX WEBSITE
+## Redesign of Yale School of Arts website found here: art.yale.edu
 
